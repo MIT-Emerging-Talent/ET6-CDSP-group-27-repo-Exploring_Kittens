@@ -6,6 +6,7 @@
   documentation on the project board.  
 - Wasting time revisiting issues that could have been
   prevented through more structured workflows.
+- Starting tasks late. 
 
 ## Continue Doing
 
@@ -57,3 +58,6 @@
 - Good organizational work was done.
 - Collaborated willingly with other members.
 - There are opportunities for growth in time management.
+### Asia
+- I could improve my GitHub skills.
+- Collaboration on tasks saved us time. 
