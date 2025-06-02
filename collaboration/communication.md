@@ -33,11 +33,12 @@ How often we will get in touch on each channel, and what we will discuss there:
 | Day     | Mon | Tue | Wed | Thu | Fri| Sat | Sun |
 |--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Alona |5-8 PM EST|5-8 PM EST|3-8 PM|5-8 PM EST|5-8 PM EST|No|9 AM-8 PM EST|
+| Asia |5-10 PM CAT|5-10 PM CAT|5-10 PM CAT|5-10 PM CAT|Not available|5-10 PM CAT|5-10 PM CAT|
 
 ### How many hours everyone has per day
 
 - Alona: _3h_
-
+- Asia: _3h_
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes and
