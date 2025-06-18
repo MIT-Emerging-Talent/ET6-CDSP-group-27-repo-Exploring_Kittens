@@ -39,3 +39,14 @@ design appropriate methodologies to address them.
 - Learn something new.
 - Improve my teamwork abilities.
 - Gain experience working with vastly different time zones.
+
+### Jeffery
+
+- Strengthen my ability to translate complex problems
+into actionable data science tasks.
+
+- Improve my skills in managing and coordinating collaborative coding projects
+on GitHub.
+
+- Deepen my understanding of asynchronous programming and
+how to apply it effectively in group collaborative projects.
