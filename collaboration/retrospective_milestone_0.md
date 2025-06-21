@@ -6,6 +6,10 @@
   documentation on the project board.  
 - Wasting time revisiting issues that could have been
   prevented through more structured workflows.
+- Not planning the milestone steps in detail at the beginning,
+  which leads to confusion mid-way.
+- Staying silent about availability or progress on assigned tasks,
+  which creates uncertainty for the rest of the team.
 
 ## Continue Doing
 
@@ -19,6 +23,9 @@
 - Encouraging full participation from all members in both
  discussions and task execution.  
 - Scheduling regular review sessions to stay aligned with project goals.
+- Planning milestones and necessary steps earlier, to avoid rushed.
+- Having short daily check-ins (written, not meetings) to update each other
+  on progress and blockers.
 
 ## Lessons Learned
 
@@ -29,6 +36,8 @@
 - Retrospectives can be used to break down complex challenges,
 giving everyone the opportunity to contribute, learn,
 and gain confidence in solving similar problems in the future.
+- Time zone differences are challenging, but with patience and structure,
+  they can be managed effectively.
 
 ---
 
@@ -68,3 +77,12 @@ and gain confidence in solving similar problems in the future.
 - Definitely needed the GitHub refresher.
 - Timezones are a challenge, but if everyone is willing to compromise,
 it can be overcome.
+
+### Vahab
+
+- Time differences are challenging, but we’re figuring out ways to adapt,
+  We can do better.
+- I see the need to plan better at the beginning of each milestone.
+- The team is very supportive and flexible, which really helps when
+  things get off track.
+  
