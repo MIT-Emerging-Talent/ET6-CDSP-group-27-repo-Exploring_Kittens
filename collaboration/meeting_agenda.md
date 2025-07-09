@@ -141,3 +141,53 @@ folder as soon as possible.
   avoid a last-minute rush.
 
 ---
+
+### Meeting Agenda
+
+#### 1. Topic Change Discussion
+
+The group agreed to adopt a new research topic proposed by Vahab:  
+**"Prescribed Fire Planning to Prevent Wildfires in Canada using Satellite
+Images."**  _(Thunderstorms are the biggest reason for wildfires in North America.)_
+
+#### 2. Key Concerns and Considerations
+
+- The group acknowledged the importance of clearly defining the scope
+and ensuring the topic has real-world relevance.  
+- Alona pointed out that the new topic lacks a strong **social impact**
+compared to those discussed in lecture slides.  
+- She also noted the absence of an “**x maps to y**” correlation present in
+previous topics.  
+- The group emphasized the need for **concise data collection**.  
+- There was consensus to **limit the geographical scope to Canada** (for now)
+to keep the project focused and manageable.
+
+#### 3. Refining the Research Question
+
+Proposed refined versions of the research question:
+
+- _How does the integration of satellite imagery improve the outcomes of
+prescribed burning programs in mitigating wildfire risk in Canada?_
+- _How effective are prescribed forest fires by satellite images in reducing
+the risk of out-of-control wildfires in Canada?_
+
+#### 4. Immediate Action Items
+
+- The new topic will be discussed with **Evan on Slack** to confirm
+its acceptability.  
+- **Asia** identified similar research projects and GitHub repositories for
+insight and inspiration.  
+- Ongoing discussion around the **specific data types** needed for the project.
+
+#### 5. Task Assignments
+
+- **Vahab** will refine the group README and submit a pull
+request with the updated content.  
+- **Alona** will create a format for group member retrospectives
+and begin coordinating task assignments for upcoming deadlines.
+
+## 6. Next Meeting
+
+- **Date:** June 29, 2025  
+- **Time:** 1:00 PM EST  
+- **Agenda:** Team members will report on progress and discuss feedback from Evan.
