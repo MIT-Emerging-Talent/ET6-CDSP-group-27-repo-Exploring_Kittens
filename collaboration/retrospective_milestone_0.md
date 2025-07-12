@@ -3,7 +3,7 @@
 ## Stop Doing
 
 - Letting tasks and discussions remain informal without proper
-  documentation on the project board.  
+  documentation on the project board.
 - Wasting time revisiting issues that could have been
   prevented through more structured workflows.
 - Not planning the milestone steps in detail at the beginning,
@@ -13,15 +13,15 @@
 
 ## Continue Doing
 
-- Maintaining clear and effective communication via the WhatsApp group.  
-- Holding productive group and one-on-one meetings through Google Meet.  
+- Maintaining clear and effective communication via the WhatsApp group.
+- Holding productive group and one-on-one meetings through Google Meet.
 - Actively sharing knowledge and resources to minimize
   information gaps within the team.
 
 ## Start Doing
 
 - Encouraging full participation from all members in both
- discussions and task execution.  
+  discussions and task execution.
 - Scheduling regular review sessions to stay aligned with project goals.
 - Planning milestones and necessary steps earlier, to avoid rushed.
 - Having short daily check-ins (written, not meetings) to update each other
@@ -29,13 +29,13 @@
 
 ## Lessons Learned
 
-- Strong and consistent group communication is crucial to project success.  
-- Clearly defined roles and responsibilities lead to better accountability.  
+- Strong and consistent group communication is crucial to project success.
+- Clearly defined roles and responsibilities lead to better accountability.
 - Completing tasks ahead of deadlines allows time for reviews,
-  feedback, and revisions.  
+  feedback, and revisions.
 - Retrospectives can be used to break down complex challenges,
-giving everyone the opportunity to contribute, learn,
-and gain confidence in solving similar problems in the future.
+  giving everyone the opportunity to contribute, learn,
+  and gain confidence in solving similar problems in the future.
 - Time zone differences are challenging, but with patience and structure,
   they can be managed effectively.
 
@@ -47,7 +47,7 @@ and gain confidence in solving similar problems in the future.
 
 - Clear communication channels, such as WhatsApp and Google
   Meetings, worked well for collaboration.
-  
+
 ### What parts of your plan did not work out?
 
 - Group meetings were not reflected on the project board.
@@ -76,7 +76,7 @@ and gain confidence in solving similar problems in the future.
 
 - Definitely needed the GitHub refresher.
 - Timezones are a challenge, but if everyone is willing to compromise,
-it can be overcome.
+  it can be overcome.
 
 ### Vahab
 
@@ -85,4 +85,3 @@ it can be overcome.
 - I see the need to plan better at the beginning of each milestone.
 - The team is very supportive and flexible, which really helps when
   things get off track.
-  

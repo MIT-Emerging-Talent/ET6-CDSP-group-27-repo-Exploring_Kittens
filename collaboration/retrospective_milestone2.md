@@ -34,7 +34,7 @@
 
 ### What parts of your plan went as expected?
 
-- *(To be completed)*
+- _(To be completed)_
 
 ### What parts of your plan did not work out?
 
@@ -52,7 +52,7 @@
 ### Alona
 
 - Analyzed sample research questions and actively contributed to  
-  discussions around teammates' ideas.  
-- Helped improve and refine the work of other team members.  
+  discussions around teammates' ideas.
+- Helped improve and refine the work of other team members.
 - Next time, will focus more on the project during critical periods and  
   stay more mindful of deadlines.
