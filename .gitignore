@@ -5,3 +5,19 @@ venv/
 *.db
 *.idea
 *.ruff_cache
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore raw datasets and outputs
+1_datasets/*.csv
+1_datasets/**/*.csv
+
+# Ignore shapefiles and related components
+2_data_preparation/*.shp
+2_data_preparation/*.dbf
+2_data_preparation/*.shx
+2_data_preparation/*.prj
+
+# Ignore other potential large files
+*.zip
