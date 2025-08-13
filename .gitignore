@@ -21,3 +21,14 @@ venv/
 
 # Ignore other potential large files
 *.zip
+
+# Natural Earth temp & shapefile parts
+1_datasets/boundaries/_tmp_ne50/
+1_datasets/boundaries/*.zip
+1_datasets/boundaries/*.shp
+1_datasets/boundaries/*.dbf
+1_datasets/boundaries/*.shx
+1_datasets/boundaries/*.prj
+1_datasets/boundaries/*.cpg
+1_datasets/boundaries/*.VERSION.txt
+1_datasets/boundaries/*README.html
