@@ -64,10 +64,13 @@ meetings and recordings
 research before formulating a question.  
 - Returned Bernard the cat to its owners
 
-### Zaid
+### Cyne
 
-- Was able to contribute an interesting research question and participated
-in productive discussion.
-- Found lots of good data.
-- Didn't do much divergent thinking as I was too intrigued by one question.
-- Need to improve my GitHub skills and learn how to use the project board properly.
+- Due to time zone differences, I was unable to attend most team meetings,
+which limited my ability to participate in synchronous discussions.
+- I am currently managing some personal challenges, which have affected
+my ability to contribute as fully as I intended during this milestone.
+- Despite this, I’ve been keeping up with the project’s progress and am
+looking forward to contributing more consistently in the next phase.
+- I appreciate my team’s flexibility and support, and I plan to better coordinate
+my availability and communication for upcoming milestones.
